@@ -38,3 +38,4 @@ regexp_extract(author, "(.*),(.*)",1)
 
 contraste de hipotesis:
 https://rstudio-pubs-static.s3.amazonaws.com/65042_a1784120e81a430f9de400ed9b899b0b.html
+http://unbarquero.blogspot.com.es/2009/05/r-distribucion-normal.html
