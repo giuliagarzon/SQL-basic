@@ -26,7 +26,7 @@ TBLPROPERTIES (
 "xmlinput.end"="</book>"
 );
 
-Funciones de strin:
+Funciones de string:
 
 substring
 
@@ -35,3 +35,6 @@ regexp_replace(price, "[\$]","")
 regexp_extract(var, "()")
 split(var., delimitador)[]
 regexp_extract(author, "(.*),(.*)",1)
+
+contraste de hipotesis:
+https://rstudio-pubs-static.s3.amazonaws.com/65042_a1784120e81a430f9de400ed9b899b0b.html
