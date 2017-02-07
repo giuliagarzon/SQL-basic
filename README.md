@@ -25,6 +25,10 @@ TBLPROPERTIES (
 "xmlinput.start"="<book",
 "xmlinput.end"="</book>"
 );
+map:
+
+select customer_id, demographics["edcat"] from record5;
+
 
 Funciones de string:
 
